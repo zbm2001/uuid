@@ -1,0 +1,22 @@
+{
+  "name": "@zbm1/uuid",
+  "version": "0.1.0",
+  "description": "uuid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbm2001/uuid.git"
+  },
+  "keywords": [
+    "uuid"
+  ],
+  "author": "zbm2001@aliyun.com",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/zbm2001/uuid/issues"
+  },
+  "homepage": "https://github.com/zbm2001/uuid#readme"
+}
